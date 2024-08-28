@@ -1,19 +1,24 @@
-E-Commerce Website
+# E-Commerce Website
+
 This repository contains a full-stack e-commerce application designed to offer a comprehensive shopping experience. The project integrates modern web technologies to provide a responsive user interface, robust back-end services, and an intuitive admin panel for product management.
 
-Key Features
-Front-End Development:
+# Key Features
+
+# Front-End Development:
 
 React.js: Implements a dynamic and responsive interface for users to browse products, manage their shopping cart, and handle authentication (login/registration).
 HTML, CSS, JavaScript: Utilized for building the website's structure, styling, and interactivity.
-Back-End Development:
+
+# Back-End Development:
 
 Node.js & Express: Provides the server-side functionality and API endpoints for product management, user authentication, and shopping cart operations.
 MongoDB: Serves as the database solution for storing user information, product details, and cart data, ensuring scalability and flexibility.
-Admin Panel:
+
+# Admin Panel:
 
 A dedicated interface for administrators to add, update, and manage products, ensuring efficient catalog management.
-Technology Stack
+
+# Technology Stack
 Front-End: React.js, HTML, CSS, JavaScript
 Back-End: Node.js, Express, MongoDB
 Development Environment: Visual Studio Code
